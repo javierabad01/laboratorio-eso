@@ -1,0 +1,4 @@
+/home/javiera/Documentos/ESO/laboratorio-eso/Practica2
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1860maxresident)k
+0inputs+8outputs (0major+76minor)pagefaults 0swaps
+ pwd ls
